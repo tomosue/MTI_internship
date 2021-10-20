@@ -19,7 +19,7 @@ npm run serve
  
 # Note
  
-AWSを落としているので動作がしません
+現在はAWSを落としているので動作しません
  
 # Author
  
